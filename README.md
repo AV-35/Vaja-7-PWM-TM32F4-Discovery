@@ -13,10 +13,12 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 - Ta parameter spreminja moč signala.
 - *sConfigOC.Pulse = x;*
 - *sConfigOC.Pulse = 25;*
-- Ukazi
-  1. Poslje signal na pin
-  2. Poveča dutyCycle za 10
-  3. Previri če je dutyCycle nad 90 in ga spremeni na 10 ce je
+- Ukazi:
+  <ol type=1>
+  <li>Pošlje signal na pin</li>
+  <li>Poveča dutyCycle za 10</li>
+  <li>Previri če je dutyCycle nad 90 in ga spremeni na 10 ce je</li>
+  </ol>
 
 ## Slika osiloskopa 25%
 ![25](media/SDS00001.BMP)
@@ -25,5 +27,25 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 ## Slika osiloskopa 100%
 ![25](media/SDS00003.BMP)
 
+## Pinout/Configuracija
+
+<p align="center">
+<img src="media/Pinout.png">
+</p>
+
+<p align="center">
+<img src="media/Connfig_1.png">
+</p>
+
+<p align="center">
+<img src="media/Connfig_2.png">
+</p>
+
+## Vezje
+
+![Vezje](media/Vezje.png)
+
 ## Komentar
 Koda deluje brezhibno.
+
+
