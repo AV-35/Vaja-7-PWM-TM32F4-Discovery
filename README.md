@@ -12,7 +12,7 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 - sedaj znaša **100kHz**
 - Ta parameter spreminja moč signala.
 - *sConfigOC.Pulse = x;*
-- *sConfigOC.Pulse = 25*
+- *sConfigOC.Pulse = 25;*
 - Ukazi
   1. Poslje signal na pin
   2. Poveca dutycycle za 10
