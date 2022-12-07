@@ -42,10 +42,11 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 </p>
 
 ## Vezje
+<p align="center">
+<img src="media/Vezje.png">
+</p>
 
-![Vezje](media/Vezje.png)
-
-## Komentar
+## Komentar 
 Koda deluje brezhibno.
 
 
