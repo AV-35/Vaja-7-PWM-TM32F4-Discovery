@@ -10,7 +10,8 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 - Poleg pina se izpiše **TIM1_CH1**.  
 - Vrednost Prescalerja je **16**.  
 - sedaj znaša **100kHz**
-- Ta parameter spreminja dolzino periode 
+- Ta parameter spreminja moč signala.
+- *sConfigOC.Pulse = x;*
 
 
 
