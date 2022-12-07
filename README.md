@@ -15,8 +15,8 @@ S pomočjo programskega okolja STM32CubeIDE in HAL knjižnicami sprogramirajte m
 - *sConfigOC.Pulse = 25;*
 - Ukazi
   1. Poslje signal na pin
-  2. Poveca dutycycle za 10
-  3. Previri ce je dutyCycle nad 90 in ga spremeni na 10 ce je
+  2. Poveča dutyCycle za 10
+  3. Previri če je dutyCycle nad 90 in ga spremeni na 10 ce je
 
 ## Slika osiloskopa 25%
 ![25](media/SDS00001.BMP)
